@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**KarthikByju05/KarthikByju05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Karthik**, a B.Tech student based in India.
 
-Here are some ideas to get you started:
+I enjoy building small apps and understanding how things work under the hood. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current tech stack is **Flutter, Dart, Git, and GitHub**.
+I use **VS Code** for most of my development. 
+
+My favorite tools are **Blender** and **Notion**.  
+
+I'm currently working on small Flutter projects starting with a **Todo App**.
+
+Fun Facts:
+- Love to try new things.
+- Coffee addict.
+- One Piece is my favorite anime.
+- **Hobbies :** Calisthenics, Content Creation, Building things.
