@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Karthik, a B.Tech student based in India.<br>I enjoy building small apps and understanding how things work under the hood.<br>My current tech stack is Flutter, Dart, Git, and GitHub. I use VS Code for most of my development.<br>My favorite tools are Blender and Notion.<br>I'm currently working on small Flutter projects starting with a Todo App.<br><h3>Fun Facts</h3>
+I'm Karthik, a B.Tech CSE student at NIT Hamirpur, India.<br>I enjoy building small apps and understanding how things work under the hood.<br>My current tech stack is Flutter, Dart, Git, and GitHub. I use VS Code for most of my development.<br>My favorite tools are Blender and Notion.<br>I'm currently working on small Flutter projects starting with a Todo App.<br><h3>Fun Facts</h3>
 <ul>
   <li>Caffeine addict.</li>
   <li>Love to play billiards.</li>
